@@ -1,7 +1,7 @@
 <?php
  use yii\helpers\Html;
  use yii\widgets\ActiveForm;
- $this->title = 'Registro';
+ $this->title = 'Register';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <h3><?= $msg ?></h3>
